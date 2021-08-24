@@ -5,7 +5,7 @@ Kindness Barter doesn't have a back-end to collect and store any input data. In 
 (Ingredients: HTML, CSS, a ladle of vanilla Javascript and a twig of API)
 
 
-<a href="https://codepen.io/WinnieWendinH/full/VwWYZRr">Click here to check out the demo</a>
+<a href="https://codepen.io/WinnieWendinH/full/VwWYZRr" target="_blank">Click here to check out the demo</a>
 
 ![KindnessBarter2](https://user-images.githubusercontent.com/69643040/130126288-e8c94868-7405-4de8-a6ac-e7cc61e34bc2.gif)
 
