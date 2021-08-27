@@ -12,5 +12,6 @@ Kindness Barter doesn't have a back-end to collect and store any input data. In 
 <a href="https://codepen.io/WinnieWendinH/full/VwWYZRr" target="_blank">Click here to check out the demo.</a>
 
 
-![Uploading gif_kindnessbarterDemo.gif…]()
+![gif_kindnessbarterDemo](https://user-images.githubusercontent.com/69643040/131197611-e360e7f7-221b-4d18-acdb-ef8817bbfad6.gif)
+
 
