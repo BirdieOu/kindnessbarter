@@ -5,10 +5,11 @@ let textarea = document.getElementById("input");
 btn.addEventListener("click", evt => {
     textarea.parentNode.removeChild(textarea)
     btn.parentNode.removeChild(btn)
-    fetch("https://api.quotable.io/random")
+    fetch("https://type.fit/api/quotes")
         .then(response => response.json())
         .then(data => {
-            quoteText.innerText = `${data.content}\n- ${data.author}`;
+            let quote = data[Math.floor(Math.random() * data.length)];
+            quoteText.innerText = `${quote.text}\n- ${quote.author}`;
         })
         .catch(error => {
          console.log("Sorry.There's an error.");
